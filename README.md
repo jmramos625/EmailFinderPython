@@ -1,0 +1,1 @@
+This script performs automated crawling across a list of websites to extract and verify email addresses. It scans HTML content for email patterns using regular expressions and ensures validity through syntax checks and optional domain verification, supporting lead generation, data analysis, and security research.
